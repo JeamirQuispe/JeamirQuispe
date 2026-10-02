@@ -1,4 +1,4 @@
-# Hola, soy Jeamir 👋
+# Jeamir
 
 **Estudiante de Ingeniería Informática en la UNT · Enfoque backend**
 
